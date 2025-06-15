@@ -1,12 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("great= hello world");
-    printf("\n");
-    printf("name =ankit yadav");
-    printf("\n");
-    printf("age =19 ");
-    printf("\n");
-    printf("6/8/2025");
-    printf("\n");
+    printf("my name is ankit and i am 20 years old");
     return 0;
 }

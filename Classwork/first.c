@@ -2,11 +2,7 @@
 
 int main()
 {
-    int a, b;
-    printf("naruto entar two numbar");
-    scanf("%d %d", &a, &b);
-    printf("sum of %d and %d s %d", a, b, a + b);
-    printf("\n");
-
+    float pi=3.14;
+    printf("the value ")
     return 0;
 }
